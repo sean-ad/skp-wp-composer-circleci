@@ -7,3 +7,5 @@ require( dirname( __FILE__ ) . '/wp/wp-blog-header.php' );
 
 // Tiny unremarkable change
 // A small comment
+
+//another comment
